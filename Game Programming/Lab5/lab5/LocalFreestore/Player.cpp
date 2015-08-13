@@ -51,7 +51,9 @@ Player::setRageLevel(int h)
 void
 Player::printStats()
 {
+
 	std::cout << "Experience level is: " << m_experienceLevel << std::endl;
 	std::cout << "Health is: " << m_health << std::endl;
 	std::cout << "Rage level is: " << m_rageLevel << std::endl << std::endl;
 }
+

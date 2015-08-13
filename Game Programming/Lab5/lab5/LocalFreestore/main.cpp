@@ -4,10 +4,12 @@
 int main()
 {
 	//Print wrong struct from freestore for some reason
-	Player* pPlayer = 0;
+	Player* pPlayer = NULL;
 	pPlayer = new Player();
 
 	pPlayer->printStats();
-	_sleep(5000);
+	delete pPlayer;
+	pPlayer->printStats();
+
 	return(0);
 }
