@@ -1,0 +1,10 @@
+﻿Build started 14/08/2015 6:43:25 p.m..
+     1>Project "C:\Users\CamzakiiX\Documents\GitHub\GP-Sem-2\Game Programming\Lab6\Day006Framework\Framework\Framework.vcxproj" on node 2 (ClCompile target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /I"C:\Users\CamzakiiX\Documents\GitHub\GP-Sem-2\Game Programming\Lab6\Day006Framework\\SDL\SDL2-2.0.3\include\\" /I"C:\Users\CamzakiiX\Documents\GitHub\GP-Sem-2\Game Programming\Lab6\Day006Framework\\SDL\SDL2_image-2.0.0\include" /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _WINDOWS /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt PlayerShip.cpp
+         PlayerShip.cpp
+     1>Done Building Project "C:\Users\CamzakiiX\Documents\GitHub\GP-Sem-2\Game Programming\Lab6\Day006Framework\Framework\Framework.vcxproj" (ClCompile target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.55
